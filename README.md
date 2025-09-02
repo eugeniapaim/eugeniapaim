@@ -1,16 +1,27 @@
-## Hi there 👋
+## Olá, eu sou a Eugênia Paim! 👋
 
-<!--
-**eugeniapaim/eugeniapaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Atualmente estudando Análise e Desenvolvimento de Sistemas (IFRS) e me formando como Desenvolvedora Full-Stack Python (EBAC).
 
-Here are some ideas to get you started:
+📷 Além da programação, tenho experiência com fotografia e edição.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contato: contato@eugeniapaim.com.br
+
+🔗 Conecte-se comigo no LinkedIn.
+
+📂 Confira meus projetos no GitHub.
+
+😄 Pronomes: ela/dela
+
+##
+
+![GitHub da Eugênia](https://github-readme-stats.vercel.app/api?username=eugeniapaim&show_icons=true&theme=dark)
+
+[![Liguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniapaim&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
