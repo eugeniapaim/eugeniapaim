@@ -4,7 +4,7 @@
 
 📷 Além da programação, tenho experiência com fotografia e edição.
 
-📫 Contato: contato@eugeniapaim.com.br
+📫 Contato: eugheniasp@gmail.com
 
 🔗 Conecte-se comigo no LinkedIn.
 
